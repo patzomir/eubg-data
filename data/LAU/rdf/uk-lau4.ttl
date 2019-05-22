@@ -1,0 +1,2851 @@
+@prefix lau:  <http://data.businessgraph.io/lau/> .
+@prefix void:  <http://rdfs.org/ns/void#> .
+@prefix nuts:  <http://nuts.geovocab.org/id/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ramon:  <http://rdfdata.eionet.europa.eu/ramon/ontology/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ebg:  <http://data.businessgraph.eu/ontology#> .
+@prefix xs:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix spatial:  <http://geovocab.org/spatial#> .
+
+lau:UK-00QR  ramon:name  "Linburn"@en ;
+        ramon:name      "Linburn"@en ;
+        ramon:code      "UK-00QR" ;
+        rdfs:label      "UK-00QR Linburn" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-23UB  ramon:name  "Hesters Way"@en ;
+        ramon:name      "Hesters Way"@en ;
+        ramon:code      "UK-23UB" ;
+        rdfs:label      "UK-23UB Hesters Way" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-23UC  ramon:name  "Lechlade, Kempsford & Fairford South"@en ;
+        ramon:name      "Lechlade, Kempsford & Fairford South"@en ;
+        ramon:code      "UK-23UC" ;
+        rdfs:label      "UK-23UC Lechlade, Kempsford & Fairford South" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-23UF  ramon:name  "Stonehouse"@en ;
+        ramon:name      "Stonehouse"@en ;
+        ramon:code      "UK-23UF" ;
+        rdfs:label      "UK-23UF Stonehouse" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-23UG  ramon:name  "Brockworth"@en ;
+        ramon:name      "Brockworth"@en ;
+        ramon:code      "UK-23UG" ;
+        rdfs:label      "UK-23UG Brockworth" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-23UD  ramon:name  "Tidenham"@en ;
+        ramon:name      "Tidenham"@en ;
+        ramon:code      "UK-23UD" ;
+        rdfs:label      "UK-23UD Tidenham" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-23UE  ramon:name  "Barton and Tredworth"@en ;
+        ramon:name      "Barton and Tredworth"@en ;
+        ramon:code      "UK-23UE" ;
+        rdfs:label      "UK-23UE Barton and Tredworth" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-32UH  ramon:name  "Market Rasen"@en ;
+        ramon:name      "Market Rasen"@en ;
+        ramon:code      "UK-32UH" ;
+        rdfs:label      "UK-32UH Market Rasen" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-32UB  ramon:name  "Skirbeck"@en ;
+        ramon:name      "Skirbeck"@en ;
+        ramon:code      "UK-32UB" ;
+        rdfs:label      "UK-32UB Skirbeck" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-32UC  ramon:name  "Coningsby & Mareham"@en ;
+        ramon:name      "Coningsby & Mareham"@en ;
+        ramon:code      "UK-32UC" ;
+        rdfs:label      "UK-32UC Coningsby & Mareham" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-32UD  ramon:name  "Carholme"@en ;
+        ramon:name      "Carholme"@en ;
+        ramon:code      "UK-32UD" ;
+        rdfs:label      "UK-32UD Carholme" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-32UE  ramon:name  "Bracebridge Heath and Waddington East"@en ;
+        ramon:name      "Bracebridge Heath and Waddington East"@en ;
+        ramon:code      "UK-32UE" ;
+        rdfs:label      "UK-32UE Bracebridge Heath and Waddington East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-32UF  ramon:name  "Holbeach Town"@en ;
+        ramon:name      "Holbeach Town"@en ;
+        ramon:code      "UK-32UF" ;
+        rdfs:label      "UK-32UF Holbeach Town" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-32UG  ramon:name  "Grantham St Vincent's"@en ;
+        ramon:name      "Grantham St Vincent's"@en ;
+        ramon:code      "UK-32UG" ;
+        rdfs:label      "UK-32UG Grantham St Vincent's" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00NN  ramon:name  "St. John"@en ;
+        ramon:name      "St. John"@en ;
+        ramon:code      "UK-00NN" ;
+        rdfs:label      "UK-00NN St. John" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00NL  ramon:name  "Cefn"@en ;
+        ramon:name      "Cefn"@en ;
+        ramon:code      "UK-00NL" ;
+        rdfs:label      "UK-00NL Cefn" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00NJ  ramon:name  "Connah's Quay South"@en ;
+        ramon:name      "Connah's Quay South"@en ;
+        ramon:code      "UK-00NJ" ;
+        rdfs:label      "UK-00NJ Connah's Quay South" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00NG  ramon:name  "Rhyl South East"@en ;
+        ramon:name      "Rhyl South East"@en ;
+        ramon:code      "UK-00NG" ;
+        rdfs:label      "UK-00NG Rhyl South East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00NE  ramon:name  "Llandrillo yn Rhos"@en ;
+        ramon:name      "Llandrillo yn Rhos"@en ;
+        ramon:code      "UK-00NE" ;
+        rdfs:label      "UK-00NE Llandrillo yn Rhos" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00NC  ramon:name  "Menai (Bangor)"@en ;
+        ramon:name      "Menai (Bangor)"@en ;
+        ramon:code      "UK-00NC" ;
+        rdfs:label      "UK-00NC Menai (Bangor)" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00NA  ramon:name  "Canolbarth Môn"@en ;
+        ramon:name      "Canolbarth Môn"@en ;
+        ramon:code      "UK-00NA" ;
+        rdfs:label      "UK-00NA Canolbarth Môn" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00NZ  ramon:name  "Sandfields East"@en ;
+        ramon:name      "Sandfields East"@en ;
+        ramon:code      "UK-00NZ" ;
+        rdfs:label      "UK-00NZ Sandfields East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00NX  ramon:name  "Morriston"@en ;
+        ramon:name      "Morriston"@en ;
+        ramon:code      "UK-00NX" ;
+        rdfs:label      "UK-00NX Morriston" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00NU  ramon:name  "Bigyn"@en ;
+        ramon:name      "Bigyn"@en ;
+        ramon:code      "UK-00NU" ;
+        rdfs:label      "UK-00NU Bigyn" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00NS  ramon:name  "Pembroke Dock: Pennar"@en ;
+        ramon:name      "Pembroke Dock: Pennar"@en ;
+        ramon:code      "UK-00NS" ;
+        rdfs:label      "UK-00NS Pembroke Dock: Pennar" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00NQ  ramon:name  "Aberystwyth Penparcau"@en ;
+        ramon:name      "Aberystwyth Penparcau"@en ;
+        ramon:code      "UK-00NQ" ;
+        rdfs:label      "UK-00NQ Aberystwyth Penparcau" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00GA  ramon:name  "Hinton & Hunderton"@en ;
+        ramon:name      "Hinton & Hunderton"@en ;
+        ramon:code      "UK-00GA" ;
+        rdfs:label      "UK-00GA Hinton & Hunderton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00GG  ramon:name  "Bayston Hill, Column and Sutton"@en ;
+        ramon:name      "Bayston Hill, Column and Sutton"@en ;
+        ramon:code      "UK-00GG" ;
+        rdfs:label      "UK-00GG Bayston Hill, Column and Sutton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00GF  ramon:name  "Madeley & Sutton Hill"@en ;
+        ramon:name      "Madeley & Sutton Hill"@en ;
+        ramon:code      "UK-00GF" ;
+        rdfs:label      "UK-00GF Madeley & Sutton Hill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00GL  ramon:name  "Baddeley, Milton and Norton"@en ;
+        ramon:name      "Baddeley, Milton and Norton"@en ;
+        ramon:code      "UK-00GL" ;
+        rdfs:label      "UK-00GL Baddeley, Milton and Norton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00KC  ramon:name  "Arlesey"@en ;
+        ramon:name      "Arlesey"@en ;
+        ramon:code      "UK-00KC" ;
+        rdfs:label      "UK-00KC Arlesey" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-34UB  ramon:name  "Beanfield"@en ;
+        ramon:name      "Beanfield"@en ;
+        ramon:code      "UK-34UB" ;
+        rdfs:label      "UK-34UB Beanfield" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-34UC  ramon:name  "Abbey North"@en ;
+        ramon:name      "Abbey North"@en ;
+        ramon:code      "UK-34UC" ;
+        rdfs:label      "UK-34UC Abbey North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-34UF  ramon:name  "Delapre and Briar Hill"@en ;
+        ramon:name      "Delapre and Briar Hill"@en ;
+        ramon:code      "UK-34UF" ;
+        rdfs:label      "UK-34UF Delapre and Briar Hill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-34UG  ramon:name  "Towcester Brook"@en ;
+        ramon:name      "Towcester Brook"@en ;
+        ramon:code      "UK-34UG" ;
+        rdfs:label      "UK-34UG Towcester Brook" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-34UD  ramon:name  "Rushden Hayden"@en ;
+        ramon:name      "Rushden Hayden"@en ;
+        ramon:code      "UK-34UD" ;
+        rdfs:label      "UK-34UD Rushden Hayden" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-34UE  ramon:name  "All Saints"@en ;
+        ramon:name      "All Saints"@en ;
+        ramon:code      "UK-34UE" ;
+        rdfs:label      "UK-34UE All Saints" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-34UH  ramon:name  "Queensway"@en ;
+        ramon:name      "Queensway"@en ;
+        ramon:code      "UK-34UH" ;
+        rdfs:label      "UK-34UH Queensway" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00KG  ramon:name  "Grays Riverside"@en ;
+        ramon:name      "Grays Riverside"@en ;
+        ramon:code      "UK-00KG" ;
+        rdfs:label      "UK-00KG Grays Riverside" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00KF  ramon:name  "St. Luke's"@en ;
+        ramon:name      "St. Luke's"@en ;
+        ramon:code      "UK-00KF" ;
+        rdfs:label      "UK-00KF St. Luke's" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00KA  ramon:name  "Dallow"@en ;
+        ramon:name      "Dallow"@en ;
+        ramon:code      "UK-00KA" ;
+        rdfs:label      "UK-00KA Dallow" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-45UH  ramon:name  "Central"@en ;
+        ramon:name      "Central"@en ;
+        ramon:code      "UK-45UH" ;
+        rdfs:label      "UK-45UH Central" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00KB  ramon:name  "Cauldwell"@en ;
+        ramon:name      "Cauldwell"@en ;
+        ramon:code      "UK-00KB" ;
+        rdfs:label      "UK-00KB Cauldwell" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-45UF  ramon:name  "Southwater"@en ;
+        ramon:name      "Southwater"@en ;
+        ramon:code      "UK-45UF" ;
+        rdfs:label      "UK-45UF Southwater" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-45UG  ramon:name  "Hurstpierpoint and Downs"@en ;
+        ramon:name      "Hurstpierpoint and Downs"@en ;
+        ramon:code      "UK-45UG" ;
+        rdfs:label      "UK-45UG Hurstpierpoint and Downs" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-45UD  ramon:name  "Chichester East"@en ;
+        ramon:name      "Chichester East"@en ;
+        ramon:code      "UK-45UD" ;
+        rdfs:label      "UK-45UD Chichester East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-45UE  ramon:name  "Maidenbower"@en ;
+        ramon:name      "Maidenbower"@en ;
+        ramon:code      "UK-45UE" ;
+        rdfs:label      "UK-45UE Maidenbower" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-45UB  ramon:name  "Widewater"@en ;
+        ramon:name      "Widewater"@en ;
+        ramon:code      "UK-45UB" ;
+        rdfs:label      "UK-45UB Widewater" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-45UC  ramon:name  "Angmering & Findon"@en ;
+        ramon:name      "Angmering & Findon"@en ;
+        ramon:code      "UK-45UC" ;
+        rdfs:label      "UK-45UC Angmering & Findon" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-26UK  ramon:name  "Holywell"@en ;
+        ramon:name      "Holywell"@en ;
+        ramon:code      "UK-26UK" ;
+        rdfs:label      "UK-26UK Holywell" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-26UJ  ramon:name  "Chorleywood South & Maple Cross"@en ;
+        ramon:name      "Chorleywood South & Maple Cross"@en ;
+        ramon:code      "UK-26UJ" ;
+        rdfs:label      "UK-26UJ Chorleywood South & Maple Cross" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-26UH  ramon:name  "Old Town"@en ;
+        ramon:name      "Old Town"@en ;
+        ramon:code      "UK-26UH" ;
+        rdfs:label      "UK-26UH Old Town" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-26UL  ramon:name  "Hatfield West"@en ;
+        ramon:name      "Hatfield West"@en ;
+        ramon:code      "UK-26UL" ;
+        rdfs:label      "UK-26UL Hatfield West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-26UC  ramon:name  "Leverstock Green"@en ;
+        ramon:name      "Leverstock Green"@en ;
+        ramon:code      "UK-26UC" ;
+        rdfs:label      "UK-26UC Leverstock Green" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-26UB  ramon:name  "Wormley and Turnford"@en ;
+        ramon:name      "Wormley and Turnford"@en ;
+        ramon:code      "UK-26UB" ;
+        rdfs:label      "UK-26UB Wormley and Turnford" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-26UG  ramon:name  "London Colney"@en ;
+        ramon:name      "London Colney"@en ;
+        ramon:code      "UK-26UG" ;
+        rdfs:label      "UK-26UG London Colney" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-26UF  ramon:name  "Hitchin Bearton"@en ;
+        ramon:name      "Hitchin Bearton"@en ;
+        ramon:code      "UK-26UF" ;
+        rdfs:label      "UK-26UF Hitchin Bearton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-26UE  ramon:name  "Borehamwood Hillside"@en ;
+        ramon:name      "Borehamwood Hillside"@en ;
+        ramon:code      "UK-26UE" ;
+        rdfs:label      "UK-26UE Borehamwood Hillside" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-26UD  ramon:name  "Bishop's Stortford Central"@en ;
+        ramon:name      "Bishop's Stortford Central"@en ;
+        ramon:code      "UK-26UD" ;
+        rdfs:label      "UK-26UD Bishop's Stortford Central" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00DA  ramon:name  "City and Hunslet"@en ;
+        ramon:name      "City and Hunslet"@en ;
+        ramon:code      "UK-00DA" ;
+        rdfs:label      "UK-00DA City and Hunslet" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00DB  ramon:name  "South Elmsall and South Kirkby"@en ;
+        ramon:name      "South Elmsall and South Kirkby"@en ;
+        ramon:code      "UK-00DB" ;
+        rdfs:label      "UK-00DB South Elmsall and South Kirkby" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00RB  ramon:name  "Hillyland"@en ;
+        ramon:name      "Hillyland"@en ;
+        ramon:code      "UK-00RB" ;
+        rdfs:label      "UK-00RB Hillyland" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00RC  ramon:name  "Deanside"@en ;
+        ramon:name      "Deanside"@en ;
+        ramon:code      "UK-00RC" ;
+        rdfs:label      "UK-00RC Deanside" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00RA  ramon:name  "St Andrew's Deerness and Wideford"@en ;
+        ramon:name      "St Andrew's Deerness and Wideford"@en ;
+        ramon:code      "UK-00RA" ;
+        rdfs:label      "UK-00RA St Andrew's Deerness and Wideford" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00RF  ramon:name  "Hallside"@en ;
+        ramon:name      "Hallside"@en ;
+        ramon:code      "UK-00RF" ;
+        rdfs:label      "UK-00RF Hallside" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00RG  ramon:name  "Dunblane East"@en ;
+        ramon:name      "Dunblane East"@en ;
+        ramon:code      "UK-00RG" ;
+        rdfs:label      "UK-00RG Dunblane East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00RD  ramon:name  "Upper Sound, Gulberwick and Quarff"@en ;
+        ramon:name      "Upper Sound, Gulberwick and Quarff"@en ;
+        ramon:code      "UK-00RD" ;
+        rdfs:label      "UK-00RD Upper Sound, Gulberwick and Quarff" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00RE  ramon:name  "Coylton and Minishant"@en ;
+        ramon:name      "Coylton and Minishant"@en ;
+        ramon:code      "UK-00RE" ;
+        rdfs:label      "UK-00RE Coylton and Minishant" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00RJ  ramon:name  "Barra and Vatersay"@en ;
+        ramon:name      "Barra and Vatersay"@en ;
+        ramon:code      "UK-00RJ" ;
+        rdfs:label      "UK-00RJ Barra and Vatersay" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00RH  ramon:name  "Durhamtoun"@en ;
+        ramon:name      "Durhamtoun"@en ;
+        ramon:code      "UK-00RH" ;
+        rdfs:label      "UK-00RH Durhamtoun" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QW  ramon:name  "Arniston/Cockpen"@en ;
+        ramon:name      "Arniston/Cockpen"@en ;
+        ramon:code      "UK-00QW" ;
+        rdfs:label      "UK-00QW Arniston/Cockpen" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-42UH  ramon:name  "Carlton Colville"@en ;
+        ramon:name      "Carlton Colville"@en ;
+        ramon:code      "UK-42UH" ;
+        rdfs:label      "UK-42UH Carlton Colville" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-42UC  ramon:name  "Eriswell and The Rows"@en ;
+        ramon:name      "Eriswell and The Rows"@en ;
+        ramon:code      "UK-42UC" ;
+        rdfs:label      "UK-42UC Eriswell and The Rows" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-42UB  ramon:name  "Great Cornard South"@en ;
+        ramon:name      "Great Cornard South"@en ;
+        ramon:code      "UK-42UB" ;
+        rdfs:label      "UK-42UB Great Cornard South" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-42UE  ramon:name  "Stowmarket North"@en ;
+        ramon:name      "Stowmarket North"@en ;
+        ramon:code      "UK-42UE" ;
+        rdfs:label      "UK-42UE Stowmarket North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-42UD  ramon:name  "Westgate"@en ;
+        ramon:name      "Westgate"@en ;
+        ramon:code      "UK-42UD" ;
+        rdfs:label      "UK-42UD Westgate" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-42UG  ramon:name  "Woodbridge"@en ;
+        ramon:name      "Woodbridge"@en ;
+        ramon:code      "UK-42UG" ;
+        rdfs:label      "UK-42UG Woodbridge" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-42UF  ramon:name  "Moreton Hall"@en ;
+        ramon:name      "Moreton Hall"@en ;
+        ramon:code      "UK-42UF" ;
+        rdfs:label      "UK-42UF Moreton Hall" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QQ  ramon:name  "Reddingmuirhead, Brightons and Rumford"@en ;
+        ramon:name      "Reddingmuirhead, Brightons and Rumford"@en ;
+        ramon:code      "UK-00QQ" ;
+        rdfs:label      "UK-00QQ Reddingmuirhead, Brightons and Rumford" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QP  ramon:name  "Broughton"@en ;
+        ramon:name      "Broughton"@en ;
+        ramon:code      "UK-00QP" ;
+        rdfs:label      "UK-00QP Broughton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-16UB  ramon:name  "Wigton"@en ;
+        ramon:name      "Wigton"@en ;
+        ramon:code      "UK-16UB" ;
+        rdfs:label      "UK-16UB Wigton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-16UC  ramon:name  "Risedale"@en ;
+        ramon:name      "Risedale"@en ;
+        ramon:code      "UK-16UC" ;
+        rdfs:label      "UK-16UC Risedale" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-16UF  ramon:name  "Penrith North"@en ;
+        ramon:name      "Penrith North"@en ;
+        ramon:code      "UK-16UF" ;
+        rdfs:label      "UK-16UF Penrith North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-16UG  ramon:name  "Sedbergh and Kirkby Lonsdale"@en ;
+        ramon:name      "Sedbergh and Kirkby Lonsdale"@en ;
+        ramon:code      "UK-16UG" ;
+        rdfs:label      "UK-16UG Sedbergh and Kirkby Lonsdale" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-16UD  ramon:name  "Harraby"@en ;
+        ramon:name      "Harraby"@en ;
+        ramon:code      "UK-16UD" ;
+        rdfs:label      "UK-16UD Harraby" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-16UE  ramon:name  "Bransty"@en ;
+        ramon:name      "Bransty"@en ;
+        ramon:code      "UK-16UE" ;
+        rdfs:label      "UK-16UE Bransty" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-24UP  ramon:name  "St Michael"@en ;
+        ramon:name      "St Michael"@en ;
+        ramon:code      "UK-24UP" ;
+        rdfs:label      "UK-24UP St Michael" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-24UL  ramon:name  "Cherrywood"@en ;
+        ramon:name      "Cherrywood"@en ;
+        ramon:code      "UK-24UL" ;
+        rdfs:label      "UK-24UL Cherrywood" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-24UN  ramon:name  "Alamein"@en ;
+        ramon:name      "Alamein"@en ;
+        ramon:code      "UK-24UN" ;
+        rdfs:label      "UK-24UN Alamein" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-24UH  ramon:name  "Stakes"@en ;
+        ramon:name      "Stakes"@en ;
+        ramon:code      "UK-24UH" ;
+        rdfs:label      "UK-24UH Stakes" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-24UJ  ramon:name  "Holbury and North Blackfield"@en ;
+        ramon:name      "Holbury and North Blackfield"@en ;
+        ramon:code      "UK-24UJ" ;
+        rdfs:label      "UK-24UJ Holbury and North Blackfield" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-24UE  ramon:name  "Portchester East"@en ;
+        ramon:name      "Portchester East"@en ;
+        ramon:code      "UK-24UE" ;
+        rdfs:label      "UK-24UE Portchester East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-24UD  ramon:name  "Eastleigh Central"@en ;
+        ramon:name      "Eastleigh Central"@en ;
+        ramon:code      "UK-24UD" ;
+        rdfs:label      "UK-24UD Eastleigh Central" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-24UG  ramon:name  "Odiham"@en ;
+        ramon:name      "Odiham"@en ;
+        ramon:code      "UK-24UG" ;
+        rdfs:label      "UK-24UG Odiham" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-24UF  ramon:name  "Lee East"@en ;
+        ramon:name      "Lee East"@en ;
+        ramon:code      "UK-24UF" ;
+        rdfs:label      "UK-24UF Lee East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-24UC  ramon:name  "Bramshott and Liphook"@en ;
+        ramon:name      "Bramshott and Liphook"@en ;
+        ramon:code      "UK-24UC" ;
+        rdfs:label      "UK-24UC Bramshott and Liphook" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-24UB  ramon:name  "Hatch Warren and Beggarwood"@en ;
+        ramon:name      "Hatch Warren and Beggarwood"@en ;
+        ramon:code      "UK-24UB" ;
+        rdfs:label      "UK-24UB Hatch Warren and Beggarwood" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00HX  ramon:name  "Walcot and Park North"@en ;
+        ramon:name      "Walcot and Park North"@en ;
+        ramon:code      "UK-00HX" ;
+        rdfs:label      "UK-00HX Walcot and Park North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00HY  ramon:name  "Tidworth"@en ;
+        ramon:name      "Tidworth"@en ;
+        ramon:code      "UK-00HY" ;
+        rdfs:label      "UK-00HY Tidworth" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00HP  ramon:name  "Parkstone"@en ;
+        ramon:name      "Parkstone"@en ;
+        ramon:code      "UK-00HP" ;
+        rdfs:label      "UK-00HP Parkstone" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00HN  ramon:name  "East Cliff and Springbourne"@en ;
+        ramon:name      "East Cliff and Springbourne"@en ;
+        ramon:code      "UK-00HN" ;
+        rdfs:label      "UK-00HN East Cliff and Springbourne" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00HH  ramon:name  "Tormohun"@en ;
+        ramon:name      "Tormohun"@en ;
+        ramon:code      "UK-00HH" ;
+        rdfs:label      "UK-00HH Tormohun" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00HD  ramon:name  "Emersons Green"@en ;
+        ramon:name      "Emersons Green"@en ;
+        ramon:code      "UK-00HD" ;
+        rdfs:label      "UK-00HD Emersons Green" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00HE  ramon:name  "Bude"@en ;
+        ramon:name      "Bude"@en ;
+        ramon:code      "UK-00HE" ;
+        rdfs:label      "UK-00HE Bude" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00HF  ramon:name  "St. Mary's"@en ;
+        ramon:name      "St. Mary's"@en ;
+        ramon:code      "UK-00HF" ;
+        rdfs:label      "UK-00HF St. Mary's" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00HG  ramon:name  "St Peter and the Waterfront"@en ;
+        ramon:name      "St Peter and the Waterfront"@en ;
+        ramon:code      "UK-00HG" ;
+        rdfs:label      "UK-00HG St Peter and the Waterfront" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00HA  ramon:name  "Bathavon North"@en ;
+        ramon:name      "Bathavon North"@en ;
+        ramon:code      "UK-00HA" ;
+        rdfs:label      "UK-00HA Bathavon North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00HB  ramon:name  "Lawrence Hill"@en ;
+        ramon:name      "Lawrence Hill"@en ;
+        ramon:code      "UK-00HB" ;
+        rdfs:label      "UK-00HB Lawrence Hill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00HC  ramon:name  "Weston-super-Mare Bournville"@en ;
+        ramon:name      "Weston-super-Mare Bournville"@en ;
+        ramon:code      "UK-00HC" ;
+        rdfs:label      "UK-00HC Weston-super-Mare Bournville" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-17UK  ramon:name  "Hilton"@en ;
+        ramon:name      "Hilton"@en ;
+        ramon:code      "UK-17UK" ;
+        rdfs:label      "UK-17UK Hilton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-17UJ  ramon:name  "North Wingfield Central"@en ;
+        ramon:name      "North Wingfield Central"@en ;
+        ramon:code      "UK-17UJ" ;
+        rdfs:label      "UK-17UJ North Wingfield Central" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-17UH  ramon:name  "Whaley Bridge"@en ;
+        ramon:name      "Whaley Bridge"@en ;
+        ramon:code      "UK-17UH" ;
+        rdfs:label      "UK-17UH Whaley Bridge" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-17UG  ramon:name  "Larklands"@en ;
+        ramon:name      "Larklands"@en ;
+        ramon:code      "UK-17UG" ;
+        rdfs:label      "UK-17UG Larklands" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-17UF  ramon:name  "Wirksworth"@en ;
+        ramon:name      "Wirksworth"@en ;
+        ramon:code      "UK-17UF" ;
+        rdfs:label      "UK-17UF Wirksworth" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-17UD  ramon:name  "Hollingwood and Inkersall"@en ;
+        ramon:name      "Hollingwood and Inkersall"@en ;
+        ramon:code      "UK-17UD" ;
+        rdfs:label      "UK-17UD Hollingwood and Inkersall" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-17UC  ramon:name  "South Normanton West"@en ;
+        ramon:name      "South Normanton West"@en ;
+        ramon:code      "UK-17UC" ;
+        rdfs:label      "UK-17UC South Normanton West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-17UB  ramon:name  "Ripley"@en ;
+        ramon:name      "Ripley"@en ;
+        ramon:code      "UK-17UB" ;
+        rdfs:label      "UK-17UB Ripley" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AG  ramon:name  "St Pancras and Somers Town"@en ;
+        ramon:name      "St Pancras and Somers Town"@en ;
+        ramon:code      "UK-00AG" ;
+        rdfs:label      "UK-00AG St Pancras and Somers Town" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AF  ramon:name  "Penge and Cator"@en ;
+        ramon:name      "Penge and Cator"@en ;
+        ramon:code      "UK-00AF" ;
+        rdfs:label      "UK-00AF Penge and Cator" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-21UF  ramon:name  "Newhaven Denton and Meeching"@en ;
+        ramon:name      "Newhaven Denton and Meeching"@en ;
+        ramon:code      "UK-21UF" ;
+        rdfs:label      "UK-21UF Newhaven Denton and Meeching" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AD  ramon:name  "Thamesmead East"@en ;
+        ramon:name      "Thamesmead East"@en ;
+        ramon:code      "UK-00AD" ;
+        rdfs:label      "UK-00AD Thamesmead East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AC  ramon:name  "Childs Hill"@en ;
+        ramon:name      "Childs Hill"@en ;
+        ramon:code      "UK-00AC" ;
+        rdfs:label      "UK-00AC Childs Hill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AB  ramon:name  "Abbey"@en ;
+        ramon:name      "Abbey"@en ;
+        ramon:code      "UK-00AB" ;
+        rdfs:label      "UK-00AB Abbey" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AA  ramon:name  "Cripplegate"@en ;
+        ramon:name      "Cripplegate"@en ;
+        ramon:code      "UK-00AA" ;
+        rdfs:label      "UK-00AA Cripplegate" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-21UC  ramon:name  "Devonshire"@en ;
+        ramon:name      "Devonshire"@en ;
+        ramon:code      "UK-21UC" ;
+        rdfs:label      "UK-21UC Devonshire" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AN  ramon:name  "Askew"@en ;
+        ramon:name      "Askew"@en ;
+        ramon:code      "UK-00AN" ;
+        rdfs:label      "UK-00AN Askew" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AM  ramon:name  "Springfield"@en ;
+        ramon:name      "Springfield"@en ;
+        ramon:code      "UK-00AM" ;
+        rdfs:label      "UK-00AM Springfield" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AL  ramon:name  "Thamesmead Moorings"@en ;
+        ramon:name      "Thamesmead Moorings"@en ;
+        ramon:code      "UK-00AL" ;
+        rdfs:label      "UK-00AL Thamesmead Moorings" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-21UH  ramon:name  "Pevensey and Westham"@en ;
+        ramon:name      "Pevensey and Westham"@en ;
+        ramon:code      "UK-21UH" ;
+        rdfs:label      "UK-21UH Pevensey and Westham" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AJ  ramon:name  "East Acton"@en ;
+        ramon:name      "East Acton"@en ;
+        ramon:code      "UK-00AJ" ;
+        rdfs:label      "UK-00AJ East Acton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AH  ramon:name  "Broad Green"@en ;
+        ramon:name      "Broad Green"@en ;
+        ramon:code      "UK-00AH" ;
+        rdfs:label      "UK-00AH Broad Green" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AW  ramon:name  "Courtfield"@en ;
+        ramon:name      "Courtfield"@en ;
+        ramon:code      "UK-00AW" ;
+        rdfs:label      "UK-00AW Courtfield" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AU  ramon:name  "Highbury West"@en ;
+        ramon:name      "Highbury West"@en ;
+        ramon:code      "UK-00AU" ;
+        rdfs:label      "UK-00AU Highbury West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AT  ramon:name  "Feltham West"@en ;
+        ramon:name      "Feltham West"@en ;
+        ramon:code      "UK-00AT" ;
+        rdfs:label      "UK-00AT Feltham West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AS  ramon:name  "Botwell"@en ;
+        ramon:name      "Botwell"@en ;
+        ramon:code      "UK-00AS" ;
+        rdfs:label      "UK-00AS Botwell" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AR  ramon:name  "Romford Town"@en ;
+        ramon:name      "Romford Town"@en ;
+        ramon:code      "UK-00AR" ;
+        rdfs:label      "UK-00AR Romford Town" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AQ  ramon:name  "Roxbourne"@en ;
+        ramon:name      "Roxbourne"@en ;
+        ramon:code      "UK-00AQ" ;
+        rdfs:label      "UK-00AQ Roxbourne" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AP  ramon:name  "Seven Sisters"@en ;
+        ramon:name      "Seven Sisters"@en ;
+        ramon:code      "UK-00AP" ;
+        rdfs:label      "UK-00AP Seven Sisters" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AZ  ramon:name  "Lewisham Central"@en ;
+        ramon:name      "Lewisham Central"@en ;
+        ramon:code      "UK-00AZ" ;
+        rdfs:label      "UK-00AZ Lewisham Central" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AY  ramon:name  "Larkhall"@en ;
+        ramon:name      "Larkhall"@en ;
+        ramon:code      "UK-00AY" ;
+        rdfs:label      "UK-00AY Larkhall" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AX  ramon:name  "Canbury"@en ;
+        ramon:name      "Canbury"@en ;
+        ramon:code      "UK-00AX" ;
+        rdfs:label      "UK-00AX Canbury" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-19UE  ramon:name  "Hill Forts"@en ;
+        ramon:name      "Hill Forts"@en ;
+        ramon:code      "UK-19UE" ;
+        rdfs:label      "UK-19UE Hill Forts" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-19UD  ramon:name  "Corfe Mullen"@en ;
+        ramon:name      "Corfe Mullen"@en ;
+        ramon:code      "UK-19UD" ;
+        rdfs:label      "UK-19UD Corfe Mullen" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-19UG  ramon:name  "Wool"@en ;
+        ramon:name      "Wool"@en ;
+        ramon:code      "UK-19UG" ;
+        rdfs:label      "UK-19UG Wool" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-30UM  ramon:name  "Worsley"@en ;
+        ramon:name      "Worsley"@en ;
+        ramon:code      "UK-30UM" ;
+        rdfs:label      "UK-30UM Worsley" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-30UJ  ramon:name  "Bradley"@en ;
+        ramon:name      "Bradley"@en ;
+        ramon:code      "UK-30UJ" ;
+        rdfs:label      "UK-30UJ Bradley" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-30UK  ramon:name  "Town Centre"@en ;
+        ramon:name      "Town Centre"@en ;
+        ramon:code      "UK-30UK" ;
+        rdfs:label      "UK-30UK Town Centre" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-19UC  ramon:name  "West Highcliffe"@en ;
+        ramon:name      "West Highcliffe"@en ;
+        ramon:code      "UK-19UC" ;
+        rdfs:label      "UK-19UC West Highcliffe" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-30UF  ramon:name  "Park"@en ;
+        ramon:name      "Park"@en ;
+        ramon:code      "UK-30UF" ;
+        rdfs:label      "UK-30UF Park" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-30UG  ramon:name  "Rishton"@en ;
+        ramon:name      "Rishton"@en ;
+        ramon:code      "UK-30UG" ;
+        rdfs:label      "UK-30UG Rishton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-30UD  ramon:name  "Rosegrove with Lowerhouse"@en ;
+        ramon:name      "Rosegrove with Lowerhouse"@en ;
+        ramon:code      "UK-30UD" ;
+        rdfs:label      "UK-30UD Rosegrove with Lowerhouse" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-30UE  ramon:name  "Chorley South West"@en ;
+        ramon:name      "Chorley South West"@en ;
+        ramon:code      "UK-30UE" ;
+        rdfs:label      "UK-30UE Chorley South West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-19UH  ramon:name  "Bridport North"@en ;
+        ramon:name      "Bridport North"@en ;
+        ramon:code      "UK-19UH" ;
+        rdfs:label      "UK-19UH Bridport North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-19UJ  ramon:name  "Melcombe Regis"@en ;
+        ramon:name      "Melcombe Regis"@en ;
+        ramon:code      "UK-19UJ" ;
+        rdfs:label      "UK-19UJ Melcombe Regis" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-30UP  ramon:name  "Derby"@en ;
+        ramon:name      "Derby"@en ;
+        ramon:code      "UK-30UP" ;
+        rdfs:label      "UK-30UP Derby" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-30UQ  ramon:name  "Marsh Mill"@en ;
+        ramon:name      "Marsh Mill"@en ;
+        ramon:code      "UK-30UQ" ;
+        rdfs:label      "UK-30UQ Marsh Mill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-47UB  ramon:name  "Belbroughton & Romsley"@en ;
+        ramon:name      "Belbroughton & Romsley"@en ;
+        ramon:code      "UK-47UB" ;
+        rdfs:label      "UK-47UB Belbroughton & Romsley" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-47UC  ramon:name  "Pickersleigh"@en ;
+        ramon:name      "Pickersleigh"@en ;
+        ramon:code      "UK-47UC" ;
+        rdfs:label      "UK-47UC Pickersleigh" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-47UD  ramon:name  "Greenlands"@en ;
+        ramon:name      "Greenlands"@en ;
+        ramon:code      "UK-47UD" ;
+        rdfs:label      "UK-47UD Greenlands" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-47UE  ramon:name  "Cathedral"@en ;
+        ramon:name      "Cathedral"@en ;
+        ramon:code      "UK-47UE" ;
+        rdfs:label      "UK-47UE Cathedral" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-47UF  ramon:name  "Pershore"@en ;
+        ramon:name      "Pershore"@en ;
+        ramon:code      "UK-47UF" ;
+        rdfs:label      "UK-47UF Pershore" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-47UG  ramon:name  "Foley Park & Hoobrook"@en ;
+        ramon:name      "Foley Park & Hoobrook"@en ;
+        ramon:code      "UK-47UG" ;
+        rdfs:label      "UK-47UG Foley Park & Hoobrook" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-29UL  ramon:name  "Cheriton"@en ;
+        ramon:name      "Cheriton"@en ;
+        ramon:code      "UK-29UL" ;
+        rdfs:label      "UK-29UL Cheriton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-29UM  ramon:name  "Sheerness"@en ;
+        ramon:name      "Sheerness"@en ;
+        ramon:code      "UK-29UM" ;
+        rdfs:label      "UK-29UM Sheerness" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-29UN  ramon:name  "Cliftonville West"@en ;
+        ramon:name      "Cliftonville West"@en ;
+        ramon:code      "UK-29UN" ;
+        rdfs:label      "UK-29UN Cliftonville West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95A  ramon:name  "Culmore"@en ;
+        ramon:name      "Culmore"@en ;
+        ramon:code      "UK-95A" ;
+        rdfs:label      "UK-95A Culmore" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-29UH  ramon:name  "High Street"@en ;
+        ramon:name      "High Street"@en ;
+        ramon:code      "UK-29UH" ;
+        rdfs:label      "UK-29UH High Street" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-29UK  ramon:name  "Sevenoaks Town and St John's"@en ;
+        ramon:name      "Sevenoaks Town and St John's"@en ;
+        ramon:code      "UK-29UK" ;
+        rdfs:label      "UK-29UK Sevenoaks Town and St John's" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-31UC  ramon:name  "Thurmaston"@en ;
+        ramon:name      "Thurmaston"@en ;
+        ramon:code      "UK-31UC" ;
+        rdfs:label      "UK-31UC Thurmaston" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-31UB  ramon:name  "Saxondale"@en ;
+        ramon:name      "Saxondale"@en ;
+        ramon:code      "UK-31UB" ;
+        rdfs:label      "UK-31UB Saxondale" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00LC  ramon:name  "Gillingham North"@en ;
+        ramon:name      "Gillingham North"@en ;
+        ramon:code      "UK-00LC" ;
+        rdfs:label      "UK-00LC Gillingham North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-31UG  ramon:name  "Melton Sysonby"@en ;
+        ramon:name      "Melton Sysonby"@en ;
+        ramon:code      "UK-31UG" ;
+        rdfs:label      "UK-31UG Melton Sysonby" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-31UE  ramon:name  "Earl Shilton"@en ;
+        ramon:name      "Earl Shilton"@en ;
+        ramon:code      "UK-31UE" ;
+        rdfs:label      "UK-31UE Earl Shilton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-31UD  ramon:name  "Market Harborough-Great Bowden and Arden"@en ;
+        ramon:name      "Market Harborough-Great Bowden and Arden"@en ;
+        ramon:code      "UK-31UD" ;
+        rdfs:label      "UK-31UD Market Harborough-Great Bowden and Arden" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-31UJ  ramon:name  "South Wigston"@en ;
+        ramon:name      "South Wigston"@en ;
+        ramon:code      "UK-31UJ" ;
+        rdfs:label      "UK-31UJ South Wigston" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-31UH  ramon:name  "Greenhill"@en ;
+        ramon:name      "Greenhill"@en ;
+        ramon:code      "UK-31UH" ;
+        rdfs:label      "UK-31UH Greenhill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AE  ramon:name  "Harlesden"@en ;
+        ramon:name      "Harlesden"@en ;
+        ramon:code      "UK-00AE" ;
+        rdfs:label      "UK-00AE Harlesden" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-37UJ  ramon:name  "Radcliffe on Trent"@en ;
+        ramon:name      "Radcliffe on Trent"@en ;
+        ramon:code      "UK-37UJ" ;
+        rdfs:label      "UK-37UJ Radcliffe on Trent" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-37UC  ramon:name  "Worksop North"@en ;
+        ramon:name      "Worksop North"@en ;
+        ramon:code      "UK-37UC" ;
+        rdfs:label      "UK-37UC Worksop North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-37UB  ramon:name  "Hucknall West"@en ;
+        ramon:name      "Hucknall West"@en ;
+        ramon:code      "UK-37UB" ;
+        rdfs:label      "UK-37UB Hucknall West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-37UE  ramon:name  "Carlton Hill"@en ;
+        ramon:name      "Carlton Hill"@en ;
+        ramon:code      "UK-37UE" ;
+        rdfs:label      "UK-37UE Carlton Hill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-37UD  ramon:name  "Toton & Chilwell Meadows"@en ;
+        ramon:name      "Toton & Chilwell Meadows"@en ;
+        ramon:code      "UK-37UD" ;
+        rdfs:label      "UK-37UD Toton & Chilwell Meadows" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-37UG  ramon:name  "Edwinstowe & Clipstone"@en ;
+        ramon:name      "Edwinstowe & Clipstone"@en ;
+        ramon:code      "UK-37UG" ;
+        rdfs:label      "UK-37UG Edwinstowe & Clipstone" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-37UF  ramon:name  "Bull Farm and Pleasley Hill"@en ;
+        ramon:name      "Bull Farm and Pleasley Hill"@en ;
+        ramon:code      "UK-37UF" ;
+        rdfs:label      "UK-37UF Bull Farm and Pleasley Hill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00EJ  ramon:name  "Belmont"@en ;
+        ramon:name      "Belmont"@en ;
+        ramon:code      "UK-00EJ" ;
+        rdfs:label      "UK-00EJ Belmont" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00EH  ramon:name  "Bank Top & Lascelles"@en ;
+        ramon:name      "Bank Top & Lascelles"@en ;
+        ramon:code      "UK-00EH" ;
+        rdfs:label      "UK-00EH Bank Top & Lascelles" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00EM  ramon:name  "Alnwick"@en ;
+        ramon:name      "Alnwick"@en ;
+        ramon:code      "UK-00EM" ;
+        rdfs:label      "UK-00EM Alnwick" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00EC  ramon:name  "Newport"@en ;
+        ramon:name      "Newport"@en ;
+        ramon:code      "UK-00EC" ;
+        rdfs:label      "UK-00EC Newport" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00EB  ramon:name  "Manor House"@en ;
+        ramon:name      "Manor House"@en ;
+        ramon:code      "UK-00EB" ;
+        rdfs:label      "UK-00EB Manor House" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00EF  ramon:name  "Mandale and Victoria"@en ;
+        ramon:name      "Mandale and Victoria"@en ;
+        ramon:code      "UK-00EF" ;
+        rdfs:label      "UK-00EF Mandale and Victoria" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00EE  ramon:name  "Guisborough"@en ;
+        ramon:name      "Guisborough"@en ;
+        ramon:code      "UK-00EE" ;
+        rdfs:label      "UK-00EE Guisborough" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00EY  ramon:name  "Claremont"@en ;
+        ramon:name      "Claremont"@en ;
+        ramon:code      "UK-00EY" ;
+        rdfs:label      "UK-00EY Claremont" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00EX  ramon:name  "Audley"@en ;
+        ramon:name      "Audley"@en ;
+        ramon:code      "UK-00EX" ;
+        rdfs:label      "UK-00EX Audley" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00EQ  ramon:name  "Crewe East"@en ;
+        ramon:name      "Crewe East"@en ;
+        ramon:code      "UK-00EQ" ;
+        rdfs:label      "UK-00EQ Crewe East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00EW  ramon:name  "Blacon"@en ;
+        ramon:name      "Blacon"@en ;
+        ramon:code      "UK-00EW" ;
+        rdfs:label      "UK-00EW Blacon" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00EU  ramon:name  "Fairfield and Howley"@en ;
+        ramon:name      "Fairfield and Howley"@en ;
+        ramon:code      "UK-00EU" ;
+        rdfs:label      "UK-00EU Fairfield and Howley" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00ET  ramon:name  "Mersey"@en ;
+        ramon:name      "Mersey"@en ;
+        ramon:code      "UK-00ET" ;
+        rdfs:label      "UK-00ET Mersey" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00AK  ramon:name  "Edmonton Green"@en ;
+        ramon:name      "Edmonton Green"@en ;
+        ramon:code      "UK-00AK" ;
+        rdfs:label      "UK-00AK Edmonton Green" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-36UH  ramon:name  "Selby West"@en ;
+        ramon:name      "Selby West"@en ;
+        ramon:code      "UK-36UH" ;
+        rdfs:label      "UK-36UH Selby West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-36UD  ramon:name  "Granby"@en ;
+        ramon:name      "Granby"@en ;
+        ramon:code      "UK-36UD" ;
+        rdfs:label      "UK-36UD Granby" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-36UE  ramon:name  "Hipswell"@en ;
+        ramon:name      "Hipswell"@en ;
+        ramon:code      "UK-36UE" ;
+        rdfs:label      "UK-36UE Hipswell" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-36UF  ramon:name  "Malton"@en ;
+        ramon:name      "Malton"@en ;
+        ramon:code      "UK-36UF" ;
+        rdfs:label      "UK-36UF Malton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-36UG  ramon:name  "Filey"@en ;
+        ramon:name      "Filey"@en ;
+        ramon:code      "UK-36UG" ;
+        rdfs:label      "UK-36UG Filey" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-36UB  ramon:name  "Skipton West"@en ;
+        ramon:name      "Skipton West"@en ;
+        ramon:code      "UK-36UB" ;
+        rdfs:label      "UK-36UB Skipton West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-36UC  ramon:name  "Easingwold"@en ;
+        ramon:name      "Easingwold"@en ;
+        ramon:code      "UK-36UC" ;
+        rdfs:label      "UK-36UC Easingwold" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95F  ramon:name  "Kilwaughter"@en ;
+        ramon:name      "Kilwaughter"@en ;
+        ramon:code      "UK-95F" ;
+        rdfs:label      "UK-95F Kilwaughter" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-41UB  ramon:name  "Cannock South"@en ;
+        ramon:name      "Cannock South"@en ;
+        ramon:code      "UK-41UB" ;
+        rdfs:label      "UK-41UB Cannock South" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-41UC  ramon:name  "Horninglow"@en ;
+        ramon:name      "Horninglow"@en ;
+        ramon:code      "UK-41UC" ;
+        rdfs:label      "UK-41UC Horninglow" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-41UF  ramon:name  "Kinver"@en ;
+        ramon:name      "Kinver"@en ;
+        ramon:code      "UK-41UF" ;
+        rdfs:label      "UK-41UF Kinver" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-41UG  ramon:name  "St Michael's & Stonefield"@en ;
+        ramon:name      "St Michael's & Stonefield"@en ;
+        ramon:code      "UK-41UG" ;
+        rdfs:label      "UK-41UG St Michael's & Stonefield" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-41UD  ramon:name  "Leomansley"@en ;
+        ramon:name      "Leomansley"@en ;
+        ramon:code      "UK-41UD" ;
+        rdfs:label      "UK-41UD Leomansley" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-41UE  ramon:name  "Chesterton"@en ;
+        ramon:name      "Chesterton"@en ;
+        ramon:code      "UK-41UE" ;
+        rdfs:label      "UK-41UE Chesterton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-41UK  ramon:name  "Wilnecote"@en ;
+        ramon:name      "Wilnecote"@en ;
+        ramon:code      "UK-41UK" ;
+        rdfs:label      "UK-41UK Wilnecote" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-41UH  ramon:name  "Biddulph East"@en ;
+        ramon:name      "Biddulph East"@en ;
+        ramon:code      "UK-41UH" ;
+        rdfs:label      "UK-41UH Biddulph East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BB  ramon:name  "Stratford and New Town"@en ;
+        ramon:name      "Stratford and New Town"@en ;
+        ramon:code      "UK-00BB" ;
+        rdfs:label      "UK-00BB Stratford and New Town" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BC  ramon:name  "Newbury"@en ;
+        ramon:name      "Newbury"@en ;
+        ramon:code      "UK-00BC" ;
+        rdfs:label      "UK-00BC Newbury" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BA  ramon:name  "Cricket Green"@en ;
+        ramon:name      "Cricket Green"@en ;
+        ramon:code      "UK-00BA" ;
+        rdfs:label      "UK-00BA Cricket Green" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BF  ramon:name  "St Helier"@en ;
+        ramon:name      "St Helier"@en ;
+        ramon:code      "UK-00BF" ;
+        rdfs:label      "UK-00BF St Helier" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BG  ramon:name  "Bethnal Green"@en ;
+        ramon:name      "Bethnal Green"@en ;
+        ramon:code      "UK-00BG" ;
+        rdfs:label      "UK-00BG Bethnal Green" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BD  ramon:name  "Kew"@en ;
+        ramon:name      "Kew"@en ;
+        ramon:code      "UK-00BD" ;
+        rdfs:label      "UK-00BD Kew" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BE  ramon:name  "The Lane"@en ;
+        ramon:name      "The Lane"@en ;
+        ramon:code      "UK-00BE" ;
+        rdfs:label      "UK-00BE The Lane" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BJ  ramon:name  "St Mary's Park"@en ;
+        ramon:name      "St Mary's Park"@en ;
+        ramon:code      "UK-00BJ" ;
+        rdfs:label      "UK-00BJ St Mary's Park" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BK  ramon:name  "Lancaster Gate"@en ;
+        ramon:name      "Lancaster Gate"@en ;
+        ramon:code      "UK-00BK" ;
+        rdfs:label      "UK-00BK Lancaster Gate" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BH  ramon:name  "Lea Bridge"@en ;
+        ramon:name      "Lea Bridge"@en ;
+        ramon:code      "UK-00BH" ;
+        rdfs:label      "UK-00BH Lea Bridge" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BN  ramon:name  "Cheetham"@en ;
+        ramon:name      "Cheetham"@en ;
+        ramon:code      "UK-00BN" ;
+        rdfs:label      "UK-00BN Cheetham" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BL  ramon:name  "Rumworth"@en ;
+        ramon:name      "Rumworth"@en ;
+        ramon:code      "UK-00BL" ;
+        rdfs:label      "UK-00BL Rumworth" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BM  ramon:name  "Sedgley"@en ;
+        ramon:name      "Sedgley"@en ;
+        ramon:code      "UK-00BM" ;
+        rdfs:label      "UK-00BM Sedgley" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BR  ramon:name  "Ordsall"@en ;
+        ramon:name      "Ordsall"@en ;
+        ramon:code      "UK-00BR" ;
+        rdfs:label      "UK-00BR Ordsall" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BS  ramon:name  "Brinnington and Central"@en ;
+        ramon:name      "Brinnington and Central"@en ;
+        ramon:code      "UK-00BS" ;
+        rdfs:label      "UK-00BS Brinnington and Central" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BP  ramon:name  "St Mary's"@en ;
+        ramon:name      "St Mary's"@en ;
+        ramon:code      "UK-00BP" ;
+        rdfs:label      "UK-00BP St Mary's" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BQ  ramon:name  "Kingsway"@en ;
+        ramon:name      "Kingsway"@en ;
+        ramon:code      "UK-00BQ" ;
+        rdfs:label      "UK-00BQ Kingsway" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BW  ramon:name  "Abram"@en ;
+        ramon:name      "Abram"@en ;
+        ramon:code      "UK-00BW" ;
+        rdfs:label      "UK-00BW Abram" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BT  ramon:name  "Hyde Newton"@en ;
+        ramon:name      "Hyde Newton"@en ;
+        ramon:code      "UK-00BT" ;
+        rdfs:label      "UK-00BT Hyde Newton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BU  ramon:name  "Broadheath"@en ;
+        ramon:name      "Broadheath"@en ;
+        ramon:code      "UK-00BU" ;
+        rdfs:label      "UK-00BU Broadheath" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BZ  ramon:name  "Thatto Heath"@en ;
+        ramon:name      "Thatto Heath"@en ;
+        ramon:code      "UK-00BZ" ;
+        rdfs:label      "UK-00BZ Thatto Heath" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BX  ramon:name  "Longview"@en ;
+        ramon:name      "Longview"@en ;
+        ramon:code      "UK-00BX" ;
+        rdfs:label      "UK-00BX Longview" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00BY  ramon:name  "Central"@en ;
+        ramon:name      "Central"@en ;
+        ramon:code      "UK-00BY" ;
+        rdfs:label      "UK-00BY Central" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-33UE  ramon:name  "Denton"@en ;
+        ramon:name      "Denton"@en ;
+        ramon:code      "UK-33UE" ;
+        rdfs:label      "UK-33UE Denton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-33UD  ramon:name  "Nelson"@en ;
+        ramon:name      "Nelson"@en ;
+        ramon:code      "UK-33UD" ;
+        rdfs:label      "UK-33UD Nelson" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-33UG  ramon:name  "Bowthorpe"@en ;
+        ramon:name      "Bowthorpe"@en ;
+        ramon:code      "UK-33UG" ;
+        rdfs:label      "UK-33UG Bowthorpe" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-33UF  ramon:name  "Stalham and Sutton"@en ;
+        ramon:name      "Stalham and Sutton"@en ;
+        ramon:code      "UK-33UF" ;
+        rdfs:label      "UK-33UF Stalham and Sutton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00PP  ramon:name  "Llanelly Hill"@en ;
+        ramon:name      "Llanelly Hill"@en ;
+        ramon:code      "UK-00PP" ;
+        rdfs:label      "UK-00PP Llanelly Hill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-33UC  ramon:name  "Old Catton and Sprowston West"@en ;
+        ramon:name      "Old Catton and Sprowston West"@en ;
+        ramon:code      "UK-33UC" ;
+        rdfs:label      "UK-33UC Old Catton and Sprowston West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-33UB  ramon:name  "Thetford Priory"@en ;
+        ramon:name      "Thetford Priory"@en ;
+        ramon:code      "UK-33UB" ;
+        rdfs:label      "UK-33UB Thetford Priory" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-33UH  ramon:name  "Diss"@en ;
+        ramon:name      "Diss"@en ;
+        ramon:code      "UK-33UH" ;
+        rdfs:label      "UK-33UH Diss" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00PD  ramon:name  "Llantwit Major"@en ;
+        ramon:name      "Llantwit Major"@en ;
+        ramon:code      "UK-00PD" ;
+        rdfs:label      "UK-00PD Llantwit Major" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00PF  ramon:name  "Aberdare West/Llwydcoed"@en ;
+        ramon:name      "Aberdare West/Llwydcoed"@en ;
+        ramon:code      "UK-00PF" ;
+        rdfs:label      "UK-00PF Aberdare West/Llwydcoed" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00PB  ramon:name  "Brackla"@en ;
+        ramon:name      "Brackla"@en ;
+        ramon:code      "UK-00PB" ;
+        rdfs:label      "UK-00PB Brackla" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00PL  ramon:name  "Tredegar Central and West"@en ;
+        ramon:name      "Tredegar Central and West"@en ;
+        ramon:code      "UK-00PL" ;
+        rdfs:label      "UK-00PL Tredegar Central and West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00PM  ramon:name  "Panteg"@en ;
+        ramon:name      "Panteg"@en ;
+        ramon:code      "UK-00PM" ;
+        rdfs:label      "UK-00PM Panteg" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00PH  ramon:name  "Town"@en ;
+        ramon:name      "Town"@en ;
+        ramon:code      "UK-00PH" ;
+        rdfs:label      "UK-00PH Town" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00PK  ramon:name  "Penyrheol"@en ;
+        ramon:name      "Penyrheol"@en ;
+        ramon:code      "UK-00PK" ;
+        rdfs:label      "UK-00PK Penyrheol" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-21UD  ramon:name  "Central St Leonards"@en ;
+        ramon:name      "Central St Leonards"@en ;
+        ramon:code      "UK-21UD" ;
+        rdfs:label      "UK-21UD Central St Leonards" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-40UF  ramon:name  "Minehead Central"@en ;
+        ramon:name      "Minehead Central"@en ;
+        ramon:code      "UK-40UF" ;
+        rdfs:label      "UK-40UF Minehead Central" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-40UE  ramon:name  "Taunton Halcon"@en ;
+        ramon:name      "Taunton Halcon"@en ;
+        ramon:code      "UK-40UE" ;
+        rdfs:label      "UK-40UE Taunton Halcon" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-40UD  ramon:name  "Yeovil South"@en ;
+        ramon:name      "Yeovil South"@en ;
+        ramon:code      "UK-40UD" ;
+        rdfs:label      "UK-40UD Yeovil South" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-40UC  ramon:name  "Bridgwater Fairfax"@en ;
+        ramon:name      "Bridgwater Fairfax"@en ;
+        ramon:code      "UK-40UC" ;
+        rdfs:label      "UK-40UC Bridgwater Fairfax" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-40UB  ramon:name  "Street South"@en ;
+        ramon:name      "Street South"@en ;
+        ramon:code      "UK-40UB" ;
+        rdfs:label      "UK-40UB Street South" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-22UN  ramon:name  "Brightlingsea"@en ;
+        ramon:name      "Brightlingsea"@en ;
+        ramon:code      "UK-22UN" ;
+        rdfs:label      "UK-22UN Brightlingsea" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-22UL  ramon:name  "Rochford"@en ;
+        ramon:name      "Rochford"@en ;
+        ramon:code      "UK-22UL" ;
+        rdfs:label      "UK-22UL Rochford" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-22UK  ramon:name  "Mayland"@en ;
+        ramon:name      "Mayland"@en ;
+        ramon:code      "UK-22UK" ;
+        rdfs:label      "UK-22UK Mayland" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-22UJ  ramon:name  "Church Langley"@en ;
+        ramon:name      "Church Langley"@en ;
+        ramon:code      "UK-22UJ" ;
+        rdfs:label      "UK-22UJ Church Langley" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-22UH  ramon:name  "Buckhurst Hill West"@en ;
+        ramon:name      "Buckhurst Hill West"@en ;
+        ramon:code      "UK-22UH" ;
+        rdfs:label      "UK-22UH Buckhurst Hill West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-22UG  ramon:name  "St Andrew's"@en ;
+        ramon:name      "St Andrew's"@en ;
+        ramon:code      "UK-22UG" ;
+        rdfs:label      "UK-22UG St Andrew's" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-22UF  ramon:name  "Chelmer Village and Beaulieu Park"@en ;
+        ramon:name      "Chelmer Village and Beaulieu Park"@en ;
+        ramon:code      "UK-22UF" ;
+        rdfs:label      "UK-22UF Chelmer Village and Beaulieu Park" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-22UE  ramon:name  "Canvey Island Winter Gardens"@en ;
+        ramon:name      "Canvey Island Winter Gardens"@en ;
+        ramon:code      "UK-22UE" ;
+        rdfs:label      "UK-22UE Canvey Island Winter Gardens" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-22UD  ramon:name  "Brentwood West"@en ;
+        ramon:name      "Brentwood West"@en ;
+        ramon:code      "UK-22UD" ;
+        rdfs:label      "UK-22UD Brentwood West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-22UC  ramon:name  "Great Notley & Black Notley"@en ;
+        ramon:name      "Great Notley & Black Notley"@en ;
+        ramon:code      "UK-22UC" ;
+        rdfs:label      "UK-22UC Great Notley & Black Notley" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-22UB  ramon:name  "Lee Chapel North"@en ;
+        ramon:name      "Lee Chapel North"@en ;
+        ramon:code      "UK-22UB" ;
+        rdfs:label      "UK-22UB Lee Chapel North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-21UG  ramon:name  "Sidley"@en ;
+        ramon:name      "Sidley"@en ;
+        ramon:code      "UK-21UG" ;
+        rdfs:label      "UK-21UG Sidley" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-22UQ  ramon:name  "Saffron Walden Shire"@en ;
+        ramon:name      "Saffron Walden Shire"@en ;
+        ramon:code      "UK-22UQ" ;
+        rdfs:label      "UK-22UQ Saffron Walden Shire" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00MC  ramon:name  "Abbey"@en ;
+        ramon:name      "Abbey"@en ;
+        ramon:code      "UK-00MC" ;
+        rdfs:label      "UK-00MC Abbey" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00MB  ramon:name  "Calcot"@en ;
+        ramon:name      "Calcot"@en ;
+        ramon:code      "UK-00MB" ;
+        rdfs:label      "UK-00MB Calcot" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00MA  ramon:name  "Binfield with Warfield"@en ;
+        ramon:name      "Binfield with Warfield"@en ;
+        ramon:code      "UK-00MA" ;
+        rdfs:label      "UK-00MA Binfield with Warfield" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00MG  ramon:name  "Woughton & Fishermead"@en ;
+        ramon:name      "Woughton & Fishermead"@en ;
+        ramon:code      "UK-00MG" ;
+        rdfs:label      "UK-00MG Woughton & Fishermead" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00MF  ramon:name  "Winnersh"@en ;
+        ramon:name      "Winnersh"@en ;
+        ramon:code      "UK-00MF" ;
+        rdfs:label      "UK-00MF Winnersh" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00ME  ramon:name  "Oldfield"@en ;
+        ramon:name      "Oldfield"@en ;
+        ramon:code      "UK-00ME" ;
+        rdfs:label      "UK-00ME Oldfield" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00MD  ramon:name  "Chalvey"@en ;
+        ramon:name      "Chalvey"@en ;
+        ramon:code      "UK-00MD" ;
+        rdfs:label      "UK-00MD Chalvey" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-29UD  ramon:name  "Swanscombe"@en ;
+        ramon:name      "Swanscombe"@en ;
+        ramon:code      "UK-29UD" ;
+        rdfs:label      "UK-29UD Swanscombe" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-29UE  ramon:name  "Mill Hill"@en ;
+        ramon:name      "Mill Hill"@en ;
+        ramon:code      "UK-29UE" ;
+        rdfs:label      "UK-29UE Mill Hill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-29UG  ramon:name  "Riverside"@en ;
+        ramon:name      "Riverside"@en ;
+        ramon:code      "UK-29UG" ;
+        rdfs:label      "UK-29UG Riverside" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-29UB  ramon:name  "Godinton"@en ;
+        ramon:name      "Godinton"@en ;
+        ramon:code      "UK-29UB" ;
+        rdfs:label      "UK-29UB Godinton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00ML  ramon:name  "St. Peter's and North Laine"@en ;
+        ramon:name      "St. Peter's and North Laine"@en ;
+        ramon:code      "UK-00ML" ;
+        rdfs:label      "UK-00ML St. Peter's and North Laine" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00MS  ramon:name  "Bargate"@en ;
+        ramon:name      "Bargate"@en ;
+        ramon:code      "UK-00MS" ;
+        rdfs:label      "UK-00MS Bargate" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00MR  ramon:name  "Charles Dickens"@en ;
+        ramon:name      "Charles Dickens"@en ;
+        ramon:code      "UK-00MR" ;
+        rdfs:label      "UK-00MR Charles Dickens" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00MW  ramon:name  "Brading, St Helens and Bembridge"@en ;
+        ramon:name      "Brading, St Helens and Bembridge"@en ;
+        ramon:code      "UK-00MW" ;
+        rdfs:label      "UK-00MW Brading, St Helens and Bembridge" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-29UP  ramon:name  "Kings Hill"@en ;
+        ramon:name      "Kings Hill"@en ;
+        ramon:code      "UK-29UP" ;
+        rdfs:label      "UK-29UP Kings Hill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-29UQ  ramon:name  "Culverden"@en ;
+        ramon:name      "Culverden"@en ;
+        ramon:code      "UK-29UQ" ;
+        rdfs:label      "UK-29UQ Culverden" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00FP  ramon:name  "Uppingham"@en ;
+        ramon:name      "Uppingham"@en ;
+        ramon:code      "UK-00FP" ;
+        rdfs:label      "UK-00FP Uppingham" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00FY  ramon:name  "Radford and Park"@en ;
+        ramon:name      "Radford and Park"@en ;
+        ramon:code      "UK-00FY" ;
+        rdfs:label      "UK-00FY Radford and Park" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00FF  ramon:name  "Hull Road"@en ;
+        ramon:name      "Hull Road"@en ;
+        ramon:code      "UK-00FF" ;
+        rdfs:label      "UK-00FF Hull Road" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00FD  ramon:name  "Crosby and Park"@en ;
+        ramon:name      "Crosby and Park"@en ;
+        ramon:code      "UK-00FD" ;
+        rdfs:label      "UK-00FD Crosby and Park" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00FB  ramon:name  "Dale"@en ;
+        ramon:name      "Dale"@en ;
+        ramon:code      "UK-00FB" ;
+        rdfs:label      "UK-00FB Dale" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00FC  ramon:name  "Sidney Sussex"@en ;
+        ramon:name      "Sidney Sussex"@en ;
+        ramon:code      "UK-00FC" ;
+        rdfs:label      "UK-00FC Sidney Sussex" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00FA  ramon:name  "Myton"@en ;
+        ramon:name      "Myton"@en ;
+        ramon:code      "UK-00FA" ;
+        rdfs:label      "UK-00FA Myton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00FN  ramon:name  "Stoneygate"@en ;
+        ramon:name      "Stoneygate"@en ;
+        ramon:code      "UK-00FN" ;
+        rdfs:label      "UK-00FN Stoneygate" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00FK  ramon:name  "Arboretum"@en ;
+        ramon:name      "Arboretum"@en ;
+        ramon:code      "UK-00FK" ;
+        rdfs:label      "UK-00FK Arboretum" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-12UG  ramon:name  "Histon and Impington"@en ;
+        ramon:name      "Histon and Impington"@en ;
+        ramon:code      "UK-12UG" ;
+        rdfs:label      "UK-12UG Histon and Impington" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-12UD  ramon:name  "March North"@en ;
+        ramon:name      "March North"@en ;
+        ramon:code      "UK-12UD" ;
+        rdfs:label      "UK-12UD March North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-12UE  ramon:name  "Yaxley and Farcet"@en ;
+        ramon:name      "Yaxley and Farcet"@en ;
+        ramon:code      "UK-12UE" ;
+        rdfs:label      "UK-12UE Yaxley and Farcet" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-12UB  ramon:name  "Abbey"@en ;
+        ramon:name      "Abbey"@en ;
+        ramon:code      "UK-12UB" ;
+        rdfs:label      "UK-12UB Abbey" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-12UC  ramon:name  "Ely North"@en ;
+        ramon:name      "Ely North"@en ;
+        ramon:code      "UK-12UC" ;
+        rdfs:label      "UK-12UC Ely North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-29UC  ramon:name  "Heron"@en ;
+        ramon:name      "Heron"@en ;
+        ramon:code      "UK-29UC" ;
+        rdfs:label      "UK-29UC Heron" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-30UN  ramon:name  "Middleforth"@en ;
+        ramon:name      "Middleforth"@en ;
+        ramon:code      "UK-30UN" ;
+        rdfs:label      "UK-30UN Middleforth" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00PT  ramon:name  "Cathays"@en ;
+        ramon:name      "Cathays"@en ;
+        ramon:code      "UK-00PT" ;
+        rdfs:label      "UK-00PT Cathays" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-30UL  ramon:name  "Whalley"@en ;
+        ramon:name      "Whalley"@en ;
+        ramon:code      "UK-30UL" ;
+        rdfs:label      "UK-30UL Whalley" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-30UH  ramon:name  "Harbour"@en ;
+        ramon:name      "Harbour"@en ;
+        ramon:code      "UK-30UH" ;
+        rdfs:label      "UK-30UH Harbour" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-18UH  ramon:name  "Dawlish Central and North East"@en ;
+        ramon:name      "Dawlish Central and North East"@en ;
+        ramon:code      "UK-18UH" ;
+        rdfs:label      "UK-18UH Dawlish Central and North East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-18UK  ramon:name  "Bideford East"@en ;
+        ramon:name      "Bideford East"@en ;
+        ramon:code      "UK-18UK" ;
+        rdfs:label      "UK-18UK Bideford East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-18UL  ramon:name  "Tavistock North"@en ;
+        ramon:name      "Tavistock North"@en ;
+        ramon:code      "UK-18UL" ;
+        rdfs:label      "UK-18UL Tavistock North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-18UB  ramon:name  "Exmouth Withycombe Raleigh"@en ;
+        ramon:name      "Exmouth Withycombe Raleigh"@en ;
+        ramon:code      "UK-18UB" ;
+        rdfs:label      "UK-18UB Exmouth Withycombe Raleigh" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-18UC  ramon:name  "Priory"@en ;
+        ramon:name      "Priory"@en ;
+        ramon:code      "UK-18UC" ;
+        rdfs:label      "UK-18UC Priory" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-18UD  ramon:name  "Lowman"@en ;
+        ramon:name      "Lowman"@en ;
+        ramon:code      "UK-18UD" ;
+        rdfs:label      "UK-18UD Lowman" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-18UE  ramon:name  "Landkey, Swimbridge and Taw"@en ;
+        ramon:name      "Landkey, Swimbridge and Taw"@en ;
+        ramon:code      "UK-18UE" ;
+        rdfs:label      "UK-18UE Landkey, Swimbridge and Taw" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-18UG  ramon:name  "Dartmouth & East Dart"@en ;
+        ramon:name      "Dartmouth & East Dart"@en ;
+        ramon:code      "UK-18UG" ;
+        rdfs:label      "UK-18UG Dartmouth & East Dart" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-44UC  ramon:name  "Abbey"@en ;
+        ramon:name      "Abbey"@en ;
+        ramon:code      "UK-44UC" ;
+        rdfs:label      "UK-44UC Abbey" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-44UB  ramon:name  "Arley and Whitacre"@en ;
+        ramon:name      "Arley and Whitacre"@en ;
+        ramon:code      "UK-44UB" ;
+        rdfs:label      "UK-44UB Arley and Whitacre" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QU  ramon:name  "Ward 20"@en ;
+        ramon:name      "Ward 20"@en ;
+        ramon:code      "UK-00QU" ;
+        rdfs:label      "UK-00QU Ward 20" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QT  ramon:name  "Inshes"@en ;
+        ramon:name      "Inshes"@en ;
+        ramon:code      "UK-00QT" ;
+        rdfs:label      "UK-00QT Inshes" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QS  ramon:name  "Darnley"@en ;
+        ramon:name      "Darnley"@en ;
+        ramon:code      "UK-00QS" ;
+        rdfs:label      "UK-00QS Darnley" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-44UF  ramon:name  "Whitnash"@en ;
+        ramon:name      "Whitnash"@en ;
+        ramon:code      "UK-44UF" ;
+        rdfs:label      "UK-44UF Whitnash" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-44UE  ramon:name  "Bridgetown"@en ;
+        ramon:name      "Bridgetown"@en ;
+        ramon:code      "UK-44UE" ;
+        rdfs:label      "UK-44UE Bridgetown" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-44UD  ramon:name  "New Bilton"@en ;
+        ramon:name      "New Bilton"@en ;
+        ramon:code      "UK-44UD" ;
+        rdfs:label      "UK-44UD New Bilton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QZ  ramon:name  "New Stevenston and Carfin"@en ;
+        ramon:name      "New Stevenston and Carfin"@en ;
+        ramon:code      "UK-00QZ" ;
+        rdfs:label      "UK-00QZ New Stevenston and Carfin" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QY  ramon:name  "Saltcoats North"@en ;
+        ramon:name      "Saltcoats North"@en ;
+        ramon:code      "UK-00QY" ;
+        rdfs:label      "UK-00QY Saltcoats North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QX  ramon:name  "Lhanbryde and Birnie"@en ;
+        ramon:name      "Lhanbryde and Birnie"@en ;
+        ramon:code      "UK-00QX" ;
+        rdfs:label      "UK-00QX Lhanbryde and Birnie" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QG  ramon:name  "Riverside"@en ;
+        ramon:name      "Riverside"@en ;
+        ramon:code      "UK-00QG" ;
+        rdfs:label      "UK-00QG Riverside" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QF  ramon:name  "Muirside"@en ;
+        ramon:name      "Muirside"@en ;
+        ramon:code      "UK-00QF" ;
+        rdfs:label      "UK-00QF Muirside" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QE  ramon:name  "Peebles and District South"@en ;
+        ramon:name      "Peebles and District South"@en ;
+        ramon:code      "UK-00QE" ;
+        rdfs:label      "UK-00QE Peebles and District South" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QD  ramon:name  "Garelochhead and Cove"@en ;
+        ramon:name      "Garelochhead and Cove"@en ;
+        ramon:code      "UK-00QD" ;
+        rdfs:label      "UK-00QD Garelochhead and Cove" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QC  ramon:name  "Sidlaw East and Ashludie"@en ;
+        ramon:name      "Sidlaw East and Ashludie"@en ;
+        ramon:code      "UK-00QC" ;
+        rdfs:label      "UK-00QC Sidlaw East and Ashludie" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QB  ramon:name  "Kintore and Keithhall"@en ;
+        ramon:name      "Kintore and Keithhall"@en ;
+        ramon:code      "UK-00QB" ;
+        rdfs:label      "UK-00QB Kintore and Keithhall" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QA  ramon:name  "Newhills"@en ;
+        ramon:name      "Newhills"@en ;
+        ramon:code      "UK-00QA" ;
+        rdfs:label      "UK-00QA Newhills" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QN  ramon:name  "Greenfarm"@en ;
+        ramon:name      "Greenfarm"@en ;
+        ramon:code      "UK-00QN" ;
+        rdfs:label      "UK-00QN Greenfarm" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QM  ramon:name  "Dunbar East"@en ;
+        ramon:name      "Dunbar East"@en ;
+        ramon:code      "UK-00QM" ;
+        rdfs:label      "UK-00QM Dunbar East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QL  ramon:name  "Hillhead and Broomhill"@en ;
+        ramon:name      "Hillhead and Broomhill"@en ;
+        ramon:code      "UK-00QL" ;
+        rdfs:label      "UK-00QL Hillhead and Broomhill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QK  ramon:name  "North Kilmarnock, Fenwick and Waterside"@en ;
+        ramon:name      "North Kilmarnock, Fenwick and Waterside"@en ;
+        ramon:code      "UK-00QK" ;
+        rdfs:label      "UK-00QK North Kilmarnock, Fenwick and Waterside" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QJ  ramon:name  "Balgillo"@en ;
+        ramon:name      "Balgillo"@en ;
+        ramon:code      "UK-00QJ" ;
+        rdfs:label      "UK-00QJ Balgillo" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00QH  ramon:name  "Criffel"@en ;
+        ramon:name      "Criffel"@en ;
+        ramon:code      "UK-00QH" ;
+        rdfs:label      "UK-00QH Criffel" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95B  ramon:name  "Aghanloo"@en ;
+        ramon:name      "Aghanloo"@en ;
+        ramon:code      "UK-95B" ;
+        rdfs:label      "UK-95B Aghanloo" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95G  ramon:name  "Ahoghill"@en ;
+        ramon:name      "Ahoghill"@en ;
+        ramon:code      "UK-95G" ;
+        rdfs:label      "UK-95G Ahoghill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00JA  ramon:name  "Orton with Hampton"@en ;
+        ramon:name      "Orton with Hampton"@en ;
+        ramon:code      "UK-00JA" ;
+        rdfs:label      "UK-00JA Orton with Hampton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CM  ramon:name  "Hendon"@en ;
+        ramon:name      "Hendon"@en ;
+        ramon:code      "UK-00CM" ;
+        rdfs:label      "UK-00CM Hendon" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CN  ramon:name  "Nechells"@en ;
+        ramon:name      "Nechells"@en ;
+        ramon:code      "UK-00CN" ;
+        rdfs:label      "UK-00CN Nechells" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CH  ramon:name  "Lobley Hill and Bensham"@en ;
+        ramon:name      "Lobley Hill and Bensham"@en ;
+        ramon:code      "UK-00CH" ;
+        rdfs:label      "UK-00CH Lobley Hill and Bensham" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-43UL  ramon:name  "Haslemere East and Grayswood"@en ;
+        ramon:name      "Haslemere East and Grayswood"@en ;
+        ramon:code      "UK-43UL" ;
+        rdfs:label      "UK-43UL Haslemere East and Grayswood" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-43UM  ramon:name  "Maybury and Sheerwater"@en ;
+        ramon:name      "Maybury and Sheerwater"@en ;
+        ramon:code      "UK-43UM" ;
+        rdfs:label      "UK-43UM Maybury and Sheerwater" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-43UH  ramon:name  "Ashford North and Stanwell South"@en ;
+        ramon:name      "Ashford North and Stanwell South"@en ;
+        ramon:code      "UK-43UH" ;
+        rdfs:label      "UK-43UH Ashford North and Stanwell South" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-43UJ  ramon:name  "Mytchett and Deepcut"@en ;
+        ramon:name      "Mytchett and Deepcut"@en ;
+        ramon:code      "UK-43UJ" ;
+        rdfs:label      "UK-43UJ Mytchett and Deepcut" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-43UK  ramon:name  "Oxted South"@en ;
+        ramon:name      "Oxted South"@en ;
+        ramon:code      "UK-43UK" ;
+        rdfs:label      "UK-43UK Oxted South" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-43UD  ramon:name  "Stoughton"@en ;
+        ramon:name      "Stoughton"@en ;
+        ramon:code      "UK-43UD" ;
+        rdfs:label      "UK-43UD Stoughton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-43UE  ramon:name  "Leatherhead North"@en ;
+        ramon:name      "Leatherhead North"@en ;
+        ramon:code      "UK-43UE" ;
+        rdfs:label      "UK-43UE Leatherhead North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-43UF  ramon:name  "Redhill East"@en ;
+        ramon:name      "Redhill East"@en ;
+        ramon:code      "UK-43UF" ;
+        rdfs:label      "UK-43UF Redhill East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-43UG  ramon:name  "Egham Hythe"@en ;
+        ramon:name      "Egham Hythe"@en ;
+        ramon:code      "UK-43UG" ;
+        rdfs:label      "UK-43UG Egham Hythe" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-43UB  ramon:name  "Claygate"@en ;
+        ramon:name      "Claygate"@en ;
+        ramon:code      "UK-43UB" ;
+        rdfs:label      "UK-43UB Claygate" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-43UC  ramon:name  "Town"@en ;
+        ramon:name      "Town"@en ;
+        ramon:code      "UK-43UC" ;
+        rdfs:label      "UK-43UC Town" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00PR  ramon:name  "Liswerry"@en ;
+        ramon:name      "Liswerry"@en ;
+        ramon:code      "UK-00PR" ;
+        rdfs:label      "UK-00PR Liswerry" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95Y  ramon:name  "Beechill"@en ;
+        ramon:name      "Beechill"@en ;
+        ramon:code      "UK-95Y" ;
+        rdfs:label      "UK-95Y Beechill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95X  ramon:name  "Movilla"@en ;
+        ramon:name      "Movilla"@en ;
+        ramon:code      "UK-95X" ;
+        rdfs:label      "UK-95X Movilla" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95Z  ramon:name  "Botanic"@en ;
+        ramon:name      "Botanic"@en ;
+        ramon:code      "UK-95Z" ;
+        rdfs:label      "UK-95Z Botanic" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95Q  ramon:name  "Ballydown"@en ;
+        ramon:name      "Ballydown"@en ;
+        ramon:code      "UK-95Q" ;
+        rdfs:label      "UK-95Q Ballydown" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95P  ramon:name  "Burren and Kilbroney"@en ;
+        ramon:name      "Burren and Kilbroney"@en ;
+        ramon:code      "UK-95P" ;
+        rdfs:label      "UK-95P Burren and Kilbroney" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95S  ramon:name  "Derryaghy"@en ;
+        ramon:name      "Derryaghy"@en ;
+        ramon:code      "UK-95S" ;
+        rdfs:label      "UK-95S Derryaghy" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95R  ramon:name  "Drumaness"@en ;
+        ramon:name      "Drumaness"@en ;
+        ramon:code      "UK-95R" ;
+        rdfs:label      "UK-95R Drumaness" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95U  ramon:name  "Mallusk"@en ;
+        ramon:name      "Mallusk"@en ;
+        ramon:code      "UK-95U" ;
+        rdfs:label      "UK-95U Mallusk" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95T  ramon:name  "Massereene"@en ;
+        ramon:name      "Massereene"@en ;
+        ramon:code      "UK-95T" ;
+        rdfs:label      "UK-95T Massereene" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95W  ramon:name  "Conlig"@en ;
+        ramon:name      "Conlig"@en ;
+        ramon:code      "UK-95W" ;
+        rdfs:label      "UK-95W Conlig" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95V  ramon:name  "Eden"@en ;
+        ramon:name      "Eden"@en ;
+        ramon:code      "UK-95V" ;
+        rdfs:label      "UK-95V Eden" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95I  ramon:name  "The Loop"@en ;
+        ramon:name      "The Loop"@en ;
+        ramon:code      "UK-95I" ;
+        rdfs:label      "UK-95I The Loop" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95H  ramon:name  "Castledawson"@en ;
+        ramon:name      "Castledawson"@en ;
+        ramon:code      "UK-95H" ;
+        rdfs:label      "UK-95H Castledawson" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95K  ramon:name  "Coolnagard"@en ;
+        ramon:name      "Coolnagard"@en ;
+        ramon:code      "UK-95K" ;
+        rdfs:label      "UK-95K Coolnagard" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95J  ramon:name  "West"@en ;
+        ramon:name      "West"@en ;
+        ramon:code      "UK-95J" ;
+        rdfs:label      "UK-95J West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95M  ramon:name  "Coalisland North"@en ;
+        ramon:name      "Coalisland North"@en ;
+        ramon:code      "UK-95M" ;
+        rdfs:label      "UK-95M Coalisland North" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95L  ramon:name  "Castlecoole"@en ;
+        ramon:name      "Castlecoole"@en ;
+        ramon:code      "UK-95L" ;
+        rdfs:label      "UK-95L Castlecoole" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95O  ramon:name  "Derrynoose"@en ;
+        ramon:name      "Derrynoose"@en ;
+        ramon:code      "UK-95O" ;
+        rdfs:label      "UK-95O Derrynoose" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95N  ramon:name  "Kernan"@en ;
+        ramon:name      "Kernan"@en ;
+        ramon:code      "UK-95N" ;
+        rdfs:label      "UK-95N Kernan" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-11UE  ramon:name  "Gerrards Cross"@en ;
+        ramon:name      "Gerrards Cross"@en ;
+        ramon:code      "UK-11UE" ;
+        rdfs:label      "UK-11UE Gerrards Cross" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95C  ramon:name  "The Cuts"@en ;
+        ramon:name      "The Cuts"@en ;
+        ramon:code      "UK-95C" ;
+        rdfs:label      "UK-95C The Cuts" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-11UF  ramon:name  "Abbey"@en ;
+        ramon:name      "Abbey"@en ;
+        ramon:code      "UK-11UF" ;
+        rdfs:label      "UK-11UF Abbey" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95E  ramon:name  "Knocklayd"@en ;
+        ramon:name      "Knocklayd"@en ;
+        ramon:code      "UK-95E" ;
+        rdfs:label      "UK-95E Knocklayd" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-95D  ramon:name  "Seacon"@en ;
+        ramon:name      "Seacon"@en ;
+        ramon:code      "UK-95D" ;
+        rdfs:label      "UK-95D Seacon" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-11UC  ramon:name  "Chalfont St Giles"@en ;
+        ramon:name      "Chalfont St Giles"@en ;
+        ramon:code      "UK-11UC" ;
+        rdfs:label      "UK-11UC Chalfont St Giles" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-11UB  ramon:name  "Aston Clinton & Stoke Mandeville"@en ;
+        ramon:name      "Aston Clinton & Stoke Mandeville"@en ;
+        ramon:code      "UK-11UB" ;
+        rdfs:label      "UK-11UB Aston Clinton & Stoke Mandeville" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-38UF  ramon:name  "Witney East"@en ;
+        ramon:name      "Witney East"@en ;
+        ramon:code      "UK-38UF" ;
+        rdfs:label      "UK-38UF Witney East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CL  ramon:name  "Boldon Colliery"@en ;
+        ramon:name      "Boldon Colliery"@en ;
+        ramon:code      "UK-00CL" ;
+        rdfs:label      "UK-00CL Boldon Colliery" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-38UD  ramon:name  "Henley-on-Thames"@en ;
+        ramon:name      "Henley-on-Thames"@en ;
+        ramon:code      "UK-38UD" ;
+        rdfs:label      "UK-38UD Henley-on-Thames" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-38UE  ramon:name  "Abingdon Caldecott"@en ;
+        ramon:name      "Abingdon Caldecott"@en ;
+        ramon:code      "UK-38UE" ;
+        rdfs:label      "UK-38UE Abingdon Caldecott" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-38UB  ramon:name  "Banbury Grimsbury and Castle"@en ;
+        ramon:name      "Banbury Grimsbury and Castle"@en ;
+        ramon:code      "UK-38UB" ;
+        rdfs:label      "UK-38UB Banbury Grimsbury and Castle" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-38UC  ramon:name  "Lye Valley"@en ;
+        ramon:name      "Lye Valley"@en ;
+        ramon:code      "UK-38UC" ;
+        rdfs:label      "UK-38UC Lye Valley" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CK  ramon:name  "Chirton"@en ;
+        ramon:name      "Chirton"@en ;
+        ramon:code      "UK-00CK" ;
+        rdfs:label      "UK-00CK Chirton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CJ  ramon:name  "Wingrove"@en ;
+        ramon:name      "Wingrove"@en ;
+        ramon:code      "UK-00CJ" ;
+        rdfs:label      "UK-00CJ Wingrove" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CE  ramon:name  "Town"@en ;
+        ramon:name      "Town"@en ;
+        ramon:code      "UK-00CE" ;
+        rdfs:label      "UK-00CE Town" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CG  ramon:name  "Central"@en ;
+        ramon:name      "Central"@en ;
+        ramon:code      "UK-00CG" ;
+        rdfs:label      "UK-00CG Central" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CF  ramon:name  "Rotherham East"@en ;
+        ramon:name      "Rotherham East"@en ;
+        ramon:code      "UK-00CF" ;
+        rdfs:label      "UK-00CF Rotherham East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CA  ramon:name  "Norwood"@en ;
+        ramon:name      "Norwood"@en ;
+        ramon:code      "UK-00CA" ;
+        rdfs:label      "UK-00CA Norwood" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CC  ramon:name  "North East"@en ;
+        ramon:name      "North East"@en ;
+        ramon:code      "UK-00CC" ;
+        rdfs:label      "UK-00CC North East" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CB  ramon:name  "Upton"@en ;
+        ramon:name      "Upton"@en ;
+        ramon:code      "UK-00CB" ;
+        rdfs:label      "UK-00CB Upton" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CY  ramon:name  "Park"@en ;
+        ramon:name      "Park"@en ;
+        ramon:code      "UK-00CY" ;
+        rdfs:label      "UK-00CY Park" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CX  ramon:name  "City"@en ;
+        ramon:name      "City"@en ;
+        ramon:code      "UK-00CX" ;
+        rdfs:label      "UK-00CX City" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CZ  ramon:name  "Dewsbury West"@en ;
+        ramon:name      "Dewsbury West"@en ;
+        ramon:code      "UK-00CZ" ;
+        rdfs:label      "UK-00CZ Dewsbury West" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CU  ramon:name  "Palfrey"@en ;
+        ramon:name      "Palfrey"@en ;
+        ramon:code      "UK-00CU" ;
+        rdfs:label      "UK-00CU Palfrey" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CT  ramon:name  "Lyndon"@en ;
+        ramon:name      "Lyndon"@en ;
+        ramon:code      "UK-00CT" ;
+        rdfs:label      "UK-00CT Lyndon" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CW  ramon:name  "Bushbury South and Low Hill"@en ;
+        ramon:name      "Bushbury South and Low Hill"@en ;
+        ramon:code      "UK-00CW" ;
+        rdfs:label      "UK-00CW Bushbury South and Low Hill" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CQ  ramon:name  "St Michael's"@en ;
+        ramon:name      "St Michael's"@en ;
+        ramon:code      "UK-00CQ" ;
+        rdfs:label      "UK-00CQ St Michael's" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CS  ramon:name  "Soho and Victoria"@en ;
+        ramon:name      "Soho and Victoria"@en ;
+        ramon:code      "UK-00CS" ;
+        rdfs:label      "UK-00CS Soho and Victoria" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
+
+lau:UK-00CR  ramon:name  "Netherton, Woodside and St Andrews"@en ;
+        ramon:name      "Netherton, Woodside and St Andrews"@en ;
+        ramon:code      "UK-00CR" ;
+        rdfs:label      "UK-00CR Netherton, Woodside and St Andrews" ;
+        ramon:level     4 ;
+        void:inDataset  lau: .
